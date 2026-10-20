@@ -1,0 +1,11 @@
+# Spelling dictionary for serenity-genkey.
+# One word per line; '#' starts a comment.
+# The VS Code cSpell 'add to dictionary' quick-fix appends here.
+
+bigrams
+genkey
+Miscreanty
+Ngram
+Semimak
+skipgrams
+toptrigrams
